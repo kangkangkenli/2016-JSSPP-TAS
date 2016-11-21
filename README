@@ -1,0 +1,13 @@
+1. The entry function file is main.
+   In function main, there is a variable buffer_size, which is 
+   the depth of scan window. buffer_size can be set as 100, 500, and 1000.
+
+2. The function file data generates workload of small, medium and large jobs.
+
+
+3. The simulation results are in UTL_window_100.txt, UTL_window_500.txt, and UTL_window_1000.txt
+
+   UTL_window_100.txt is  the result of our approach with window size being 100.
+   UTL_window_500.txt is  the result of our approach with window size being 500.
+   UTL_window_1000.txt is the result of our approach with window size being 1000.
+ 
